@@ -2,7 +2,7 @@ title: Ruba Abu-Salma
 description: Postdoctoral Researcher, Inria
 google_analytics: 
 show_downloads: false
-theme: jekyll-theme-minimal
+theme: jekyll-theme-time-machine
 
 gems:
   - jekyll-mentions
