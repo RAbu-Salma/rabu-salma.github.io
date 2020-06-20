@@ -156,6 +156,8 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 
 1. ESORICS: 2020.
 
+1. IEEE S&P (Oakland): 2020.
+
 1. HICSS: 2019.
 
 1. ACM CSCW: 2018.
