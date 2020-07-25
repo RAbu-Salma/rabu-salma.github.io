@@ -5,6 +5,8 @@ Email: r.abu-salma@cs.ucl.ac.uk
 Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 
 ### Publications
+1. Julia Bernd, *Ruba Abu-Salma*, and Alisa Frik. Bystanders’ Privacy: The Perspectives of Nannies on Smart Home Surveillance. In Proceedings of the [10th USENIX Workshop on Free and Open Communications on the Internet (FOCI)](https://www.usenix.org/conference/foci20), 2020.
+
 1. George Chalhoub, Ivan Flechais, Norbert Nthala, and **Ruba Abu-Salma**. Innovation Inaction or In Action? The Role of User Experience in the Security and Privacy Design of Smart Home Cameras. In the [16th Symposium on Usable Privacy and Security (SOUPS)](https://www.usenix.org/conference/soups2020), Boston, MA, USA, 2020.
 
 1. **Ruba Abu-Salma**. Designing User-Centered Privacy-Enhancing Technologies. Department of Computer Science, [University College London (UCL)](https://www.ucl.ac.uk/), London, UK, 2020. (Ph.D. thesis)
