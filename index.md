@@ -35,21 +35,6 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 
 1. Fadi Aloul, Imran Zualkernan, **Ruba Abu-Salma**, Hamed Al-Ali, and May Al-Merri. iBump: A Smartphone Application to Detect Car Accidents. In [Elsevier Journal of Computers and Electrical Engineering (JCEE)](https://www.journals.elsevier.com/computers-and-electrical-engineering), 2015.
 
-### Posters
-1. George Chalhoub, Ivan Flechais, Norbert Nthala, **Ruba Abu-Salma**, and Elie Tom. Factoring User Experience into the Security and Privacy Design of Smart Home Devices. In the Extended Abstracts of the [38th ACM Conference on Human Factors in Computing Systems (CHI EA) (Late-Breaking Works)](https://chi2020.acm.org/), Honolulu, HI, USA, 2020.
-
-1. **Ruba Abu-Salma**, Juliane Kramer, Scott Ruoti, Kent Seamons, Justin Wu, and Daniel Zappala. Secure and Private Group Chat: Investigating Users Needs and Practices. In the [33rd Annual Computer Security Applications Conference (ACSAC)](https://www.acsac.org), San Juan, Puerto Rico, USA, 2017.
-
-1. INVITED: **Ruba Abu-Salma**, Kat Krol, Simon Parkin, Victoria Koh, Kevin Kwan, Jazib Mahboob, Zahra Traboulsi, and M. Angela Sasse. The Security Blanket of the Chat World: An Analytic Evaluation and a User Study of Telegram. In the [13th Symposium on Usable Privacy and Security (SOUPS)](https://www.usenix.org/conference/soups2017), Santa Clara, CA, USA, 2017.
-
-1. **Ruba Abu-Salma**, Jeremiah Onaolapo, Jonathan Bootle, and Lucky Onwuzurike. How to Get Owned by a Malicious Browser Extension. In the [1st ACM-W UK Inspire Celebration of Women in Computing](https://women.acm.org/ACM-W-Connections-2015-10), London, UK, 2015.
-
-1. Jeremiah Onaolapo, **Ruba Abu-Salma**, Jonathan Bootle, and Lucky Onwuzurike. The Ordeals of Mr. Smith. [Cyber Security Visualization Design Competition (The EU TREsPASS Project)](http://visualisation.trespass-project.eu), The Hague, The Netherlands, 2015.
-
-1. **Ruba Abu-Salma**, M. Angela Sasse, Joseph Bonneau, and Matthew Smith. POSTER: Secure Chat for the Masses? User-centered Security to the Rescue. In the [22nd ACM Conference on Computer and Communications Security (CCS)](http://www.sigsac.org/ccs/CCS2015/), Denver, CO, USA, 2015.
-
-1. **Ruba Abu-Salma**, and M. Angela Sasse. PUP: Pretty Usable Privacy. In the [5th Information Assurance Advisory Council (IAAC) Symposium](http://www.iaac.org.uk/events/symposiums/2015-annual-symposium-the-citizen-in-the-internet-of-things/), London, UK, 2015.
-
 ### Talks
 1. Evaluating the End-User Experience of Private Browsing Mode. [38th ACM Conference on Human Factors in Computing Systems (CHI)](https://chi2020.acm.org/), Honolulu, HI, USA (Apr. 27, 2020). (cancelled)
 
