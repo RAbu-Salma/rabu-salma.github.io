@@ -121,7 +121,7 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 
 **Program Committee (PC) Member:**
 
-1. IEEE Euro S&P: 2021.
+1. IEEE EuroS&P: 2021.
 
 1. USENIX Security Symposium: 2021.
 
