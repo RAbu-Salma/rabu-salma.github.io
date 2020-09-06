@@ -93,7 +93,7 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 ### Panels
 1. INVITED: [Obfuscating Ownership: Privacy and Sousveillance (OOPS)](https://www.herts.ac.uk/uhbow/whats-on/2018-autumn-and-winter/oops-exhibition). [University of Hertfordshire](https://www.herts.ac.uk), UK (Dec. 10, 2018).
 
-1.	Cryptogame: Pirates and Guardians of the Galaxy. [Mozilla Festival (MozFest)](https://mozillafestival.org), London, UK (Oct. 27, 2018).
+1. Cryptogame: Pirates and Guardians of the Galaxy. [Mozilla Festival (MozFest)](https://mozillafestival.org), London, UK (Oct. 27, 2018).
 
 1. INVITED: Supporting Usability and Design in Security. [Open Technology Fund (OTF) Summit](https://www.opentech.fund), Valencia, Spain (Nov. 14, 2017).
 
@@ -120,6 +120,8 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 1. IEEE EuroS&P: 2018.
 
 **Program Committee (PC) Member:**
+
+1. IEEE Euro S&P: 2021.
 
 1. USENIX Security Symposium: 2021.
 
