@@ -123,7 +123,7 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 
 1. IEEE EuroS&P: 2021.
 
-1. USENIX Security Symposium: 2021.
+1. USENIX Security: 2021.
 
 1. WPES: 2020.
 
