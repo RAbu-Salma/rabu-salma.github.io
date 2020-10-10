@@ -163,7 +163,7 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 
 1. PETS/PoPETs: 2018.
 
-1. ACM CHI: 2016, 2019.
+1. ACM CHI: 2016, 2019-2020.
 
 1. EuroUSEC: 2016.
 
