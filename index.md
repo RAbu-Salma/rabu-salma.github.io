@@ -5,6 +5,8 @@ Email: r.abu-salma@cs.ucl.ac.uk
 Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 
 ### Publications
+1. Omer Akgul, **Ruba Abu-Salma**, Wei Bai, Michelle Mazurek, Elissa M. Redmiles, and Blase Ur. Secrecy, Flagging, and Paranoia Revisited: Exploring User Attitudes Toward Encrypted Messaging Applications (arXiv 2020).
+
 1. Sean Oesch, **Ruba Abu-Salma**, Oumar Souleymane Diallo, Juliane Kramer, James Simmons, Justin Wu, and Scott Ruoti. Understanding User Perceptions of Security and Privacy for Group Chat: A Survey of Users in the US and UK. In the [36th Annual Computer Security Applications Conference (ACSAC)](https://www.acsac.org/), Austin, TX, USA, 2020.
 
 1. Julia Bernd, **Ruba Abu-Salma**, and Alisa Frik. Bystanders’ Privacy: The Perspectives of Nannies on Smart Home Surveillance. In the [10th USENIX Workshop on Free and Open Communications on the Internet (FOCI)](https://www.usenix.org/conference/foci20), Boston, MA, USA, 2020.
