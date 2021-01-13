@@ -111,7 +111,9 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 1. Introduction to Cybersecurity: Spring 2019.
 
 ### Academic Service
-**Program Co-Chair:**
+**Program/Mentoring Co-Chair:**
+
+1. SOUPS: 2021.
 
 1. CrossFyre: 2017.
 
@@ -126,6 +128,8 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 1. IEEE EuroS&P: 2021.
 
 1. USENIX Security: 2021.
+
+1. ESORICS: 2021.
 
 1. WPES: 2020.
 
