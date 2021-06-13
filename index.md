@@ -38,7 +38,7 @@ Find me on Twitter: [Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 1. Fadi Aloul, Imran Zualkernan, **Ruba Abu-Salma**, Hamed Al-Ali, and May Al-Merri. iBump: A Smartphone Application to Detect Car Accidents. In [Elsevier Journal of Computers and Electrical Engineering (JCEE)](https://www.journals.elsevier.com/computers-and-electrical-engineering), 2015.
 
 ### Talks
-1. Designing User-Centered Privacy-Enhancing Technologies. Cybersecurity (CYS) seminar, Dept. of Informatics, King’s College London (KCL), UK (June 03, 2021).
+1. Designing User-Centered Privacy-Enhancing Technologies. Cybersecurity (CYS) Seminar, King’s College London (KCL), UK (June 03, 2021).
 
 1. Bystanders’ Privacy: The Perspectives of Nannies on Smart Home Surveillance. International Computer Science Institute (ICSI), University of California, Berkeley, CA, USA (Apr. 23, 2020).
 
