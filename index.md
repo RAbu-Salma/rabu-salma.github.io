@@ -2,7 +2,7 @@ Ruba Abu-Salma is a Lecturer (~Asst. Professor) in Computer Science (Cybersecuri
 
 Email: ruba.abu-salma@kcl.ac.uk.
 
-Twitter: [@Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
+Twitter: [@Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma)
 
 ### Publications
 1. Omer Akgul, **Ruba Abu-Salma**, Wei Bai, Michelle Mazurek, Elissa M. Redmiles, and Blase Ur. Secrecy, Flagging, and Paranoia Revisited: Exploring User Attitudes Toward Encrypted Messaging Applications (arXiv 2020).
