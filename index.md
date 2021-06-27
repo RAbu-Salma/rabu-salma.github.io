@@ -2,8 +2,6 @@ Ruba Abu-Salma is a Lecturer (~Asst. Professor) in Computer Science (Cybersecuri
 
 Email: ruba.abu-salma@kcl.ac.uk.
 
-Website: https://rabu-salma.github.io/.
-
 Twitter: [@Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma).
 
 ### Publications
