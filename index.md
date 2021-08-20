@@ -19,7 +19,7 @@ Twitter: [@Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma)
 
 1. **Ruba Abu-Salma** and Benjamin Livshits. Evaluating the End-User Experience of Private Browsing Mode. In [ACM Conference on Human Factors in Computing Systems (CHI)](https://chi2020.acm.org/), Honolulu, HI, USA, 2020.
 
-1.	George Chalhoub, Ivan Flechais, Norbert Nthala, **Ruba Abu-Salma**, and Elie Tom. Factoring User Experience into the Security and Privacy Design of Smart Home Cameras. In [Extended Abstracts of ACM Conference on Human Factors in Computing Systems (CHI EA) (Late-Breaking works)](https://chi2020.acm.org/), Honolulu, HI, USA, 2020.
+1.	George Chalhoub, Ivan Flechais, Norbert Nthala, **Ruba Abu-Salma**, and Elie Tom. Factoring User Experience into the Security and Privacy Design of Smart Home Cameras. In [Extended Abstracts of ACM Conference on Human Factors in Computing Systems (CHI EA) (Late-Breaking Works)](https://chi2020.acm.org/), Honolulu, HI, USA, 2020.
 
 1. **Ruba Abu-Salma**. Designing for the Elderly: Understanding the Role of Age on the Adoption and Use of Secure Communication Tools. In [MobileHCI Workshop on Mobile Privacy and Security for an Ageing Population](https://csalsa.gitlab.io/mobilehciageing/index.html), Barcelona, Spain, 2018.
 
