@@ -5,7 +5,7 @@ Email: ruba.abu-salma@kcl.ac.uk
 Twitter: [@Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma)
 
 ### Publications
-1. Borce Stojkovski, Ruba Abu-Salma, Gabriele Lenzini, and Karen Triquet. “Unless one does the research, it may seem as just a useless battery-consuming app” – Field Notes on COVID-19 Contact-Tracing Applications. In ACM Journal of Digital Threats: Research and Practice (DTRAP), 2021.
+1. Borce Stojkovski, Ruba Abu-Salma, Gabriele Lenzini, and Karen Triquet. “Unless one does the research, it may seem as just a useless battery-consuming app” – Field Notes on COVID-19 Contact-Tracing Applications. In [ACM Journal of Digital Threats: Research and Practice (DTRAP)](https://dl.acm.org/journal/dtrap), 2021.
 
 1. Omer Akgul, **Ruba Abu-Salma**, Wei Bai, Michelle Mazurek, Elissa M. Redmiles, and Blase Ur. Secrecy, Flagging, and Paranoia Revisited: Exploring User Attitudes Toward Encrypted Messaging Applications (arXiv 2020).
 
