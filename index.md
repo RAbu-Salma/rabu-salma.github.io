@@ -125,9 +125,9 @@ Twitter: [@Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma)
 ### Academic Service
 **Program/Mentoring Co-Chair:**
 
-1.	SOUPS/Speed Mentoring Program: 2021. (Junior Mentoring Co-Chair)
+1.	SOUPS/Mentoring Program: 2021. (Junior Mentoring Co-Chair)
 
-1.	EuroS&P): 2018. (Publicity Chair)
+1.	EuroS&P: 2018. (Publicity Chair)
 
 1.	CrossFyre: 2017. (Program Co-Chair)
 
