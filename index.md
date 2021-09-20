@@ -13,7 +13,7 @@ Twitter: [@Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma)
 
 1. Omer Akgul, **Ruba Abu-Salma**, Wei Bai, Michelle Mazurek, Elissa M. Redmiles, and Blase Ur. From “Secure” to “Military-Grade”: Exploring the Effect of App Descriptions on User Perceptions of Secure Messaging. In [ACM Workshop on Privacy in the Electronic Society (WPES)](https://wpes2021.di.unimi.it/), Seoul, South Korea, 2021.
 
-1. Cristiana Santos, Arianna Rossi, Lorena Sanchez Chamorro, Kerstin Bongard-Blanchy, and **Ruba Abu-Salma**. Cookie Banners, What’s The Purpose? Analyzing Cookie Banner Text through a Legal Lens. In [ACM Workshop on Privacy in the Electronic Society (WPES)](https://wpes2021.di.unimi.it/), Seoul, South Korea, 2021.
+1. Cristiana Santos, Arianna Rossi, Lorena Sanchez Chamorro, Kerstin Bongard-Blanchy, and **Ruba Abu-Salma**. Cookie Banners, What’s The Purpose? Analyzing Cookie Banner Text Through a Legal Lens. In [ACM Workshop on Privacy in the Electronic Society (WPES)](https://wpes2021.di.unimi.it/), Seoul, South Korea, 2021.
 
 1. Sean Oesch, **Ruba Abu-Salma**, Oumar Souleymane Diallo, Juliane Kramer, James Simmons, Justin Wu, and Scott Ruoti. Understanding User Perceptions of Security and Privacy for Group Chat: A Survey of Users in the US and UK. In [Annual Computer Security Applications Conference (ACSAC)](https://www.acsac.org/), Austin, TX, USA, 2020.
 
