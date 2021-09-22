@@ -2,7 +2,7 @@ title: Ruba Abu-Salma
 description: Lecturer (~Asst. Professor) in Computer Science, King’s College London
 google_analytics: 
 show_downloads: false
-theme: jekyll-theme-dinky
+theme: jekyll-theme-minimal
 
 gems:
   - jekyll-mentions
