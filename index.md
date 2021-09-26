@@ -125,7 +125,7 @@ Twitter: [@Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma)
 1. Introduction to Cybersecurity: Spring 2019.
 
 ### Academic Service
-**Program/Mentoring Co-Chair:**
+**Conference Organizing:**
 
 1.	SOUPS: 2021. (Junior Mentoring Co-Chair)
 
