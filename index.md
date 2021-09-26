@@ -129,15 +129,11 @@ Twitter: [@Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma)
 
 1.	SOUPS: 2021. (Junior Mentoring Co-Chair)
 
-1.	EuroS&P: 2018. (Publicity Chair)
+1. IEEE EuroS&P: 2018. (Publicity Chair)
 
 1.	CrossFyre: 2017. (Program Co-Chair)
 
 1.	UCL Computer Science Mini Conference: 2016. (Program Co-Chair)
-
-**Publicity Chair:**
-
-1. IEEE EuroS&P: 2018.
 
 **Program Committee (PC) Member:**
 
