@@ -9,6 +9,8 @@ Email: ruba.abu-salma@kcl.ac.uk
 Twitter: [@Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma)
 
 ### Publications
+1. Sean Oesch, **Ruba Abu-Salma**, Oumar Souleymane Diallo, Juliane Kramer, James Simmons, Justin Wu, and Scott Ruoti. Users’ Perceptions of Security and Privacy for Group Chat. In [ACM Journal of Digital Threats: Research and Practice (DTRAP)](https://dl.acm.org/journal/dtrap), 2021.
+
 1. Borce Stojkovski, **Ruba Abu-Salma**, Gabriele Lenzini, and Karen Triquet. “Unless one does the research, it may seem as just a useless battery-consuming app” – Field Notes on COVID-19 Contact-Tracing Applications. In [ACM Journal of Digital Threats: Research and Practice (DTRAP)](https://dl.acm.org/journal/dtrap), 2021.
 
 1. Omer Akgul, **Ruba Abu-Salma**, Wei Bai, Michelle Mazurek, Elissa M. Redmiles, and Blase Ur. From “Secure” to “Military-Grade”: Exploring the Effect of App Descriptions on User Perceptions of Secure Messaging. In [ACM Workshop on Privacy in the Electronic Society (WPES)](https://wpes2021.di.unimi.it/), Seoul, South Korea, 2021.
