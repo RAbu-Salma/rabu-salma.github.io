@@ -4,7 +4,7 @@ Before joining KCL, Ruba was a Postdoctoral Researcher in the Usable Security an
 
 Ruba completed her Ph.D. in Computer Science from University College London (UCL) in 2019. Her dissertation focused on designing user-centered privacy-enhancing technologies. As a postgraduate student, she was supported by Google, a Marie-Skłodowska Curie Research Fellowship, and a Supporting Usability and Design in Security (SUDS) Fellowship from the Open Technology Fund. She also performed research at the Cambridge Cybercrime Center, Brave, and Telefónica Research.
 
-## Ruba is always on the lookout for talented Ph.D. students to work with her on topics sitting at the intersection of cybersecurity, privacy, HCI, and at-risk/marginalized populations. Interested candidates should email her (at ruba.abu-salma@kcl.ac.uk) their CV, a short research proposal, and any previous publications.
+**Ruba is always on the lookout for talented Ph.D. students to work with her on topics sitting at the intersection of cybersecurity, privacy, HCI, and at-risk/marginalized populations. Interested candidates should email her (at ruba.abu-salma@kcl.ac.uk) their CV, a short research proposal, and any previous publications.**
 
 Twitter: [@Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma)
 
