@@ -117,6 +117,7 @@ Twitter: [@Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma)
 
 ### Teaching
 •	7CCSMSEN: Security Engineering (M.Sc. in Cybersecurity), Dept. of Informatics, King’s College London (KCL), UK (Fall 2021).
+
 •	COMP0056: People and Security (M.Sc. in Information Security), Dept. of Computer Science, University College London (UCL), UK (Fall 2020).
 
 ### Academic Service
