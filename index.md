@@ -116,15 +116,8 @@ Twitter: [@Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma)
 1. INVITED: Supporting Usability and Design in Security. [Open Technology Fund (OTF) Summit](https://www.opentech.fund), Valencia, Spain (Nov. 14, 2017).
 
 ### Teaching
-1. Theory I: Fall 2014.
-
-1. Theory II: Spring 2015.
-
-1. Operating Systems: Fall 2015.
-
-1. Research in Information Security: Spring 2017 – Spring 2019.
-
-1. Introduction to Cybersecurity: Spring 2019.
+•	7CCSMSEN: Security Engineering (M.Sc. in Cybersecurity), Dept. of Informatics, King’s College London (KCL), UK (Fall 2021).
+•	COMP0056: People and Security (M.Sc. in Information Security), Dept. of Computer Science, University College London (UCL), UK (Fall 2020).
 
 ### Academic Service
 **Organizing Committee Member:**
