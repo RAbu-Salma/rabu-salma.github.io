@@ -127,74 +127,48 @@ Twitter: [@Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma)
 1. Introduction to Cybersecurity: Spring 2019.
 
 ### Academic Service
-**Conference Organizing:**
+**Organizing Committee Member:**
 
-1.	SOUPS: 2021. (Junior Mentoring Co-Chair)
-
-1. IEEE EuroS&P: 2018. (Publicity Chair)
-
-1.	CrossFyre: 2017. (Program Co-Chair)
-
-1.	UCL Computer Science Mini Conference: 2016. (Program Co-Chair)
+1.	National Research Centre on Privacy, Harm Reduction, and Adversarial Influence Online (REPHRAIN): 2022, 2023. (Research Ethics Board Member)
+2.	PETS Workshop on Interdependent and Multi-Party Privacy: 2022.
+3.	USENIX Symposium on Usable Privacy and Security (SOUPS): 2021. (Junior Mentoring Co-Chair)
+4.	IEEE European Symposium on Security and Privacy (EuroS&P): 2018. (Publicity Chair)
+5.	Workshop on Cryptography, Robustness, and Provably Secure Schemes for Female Young Researchers (CrossFyre): 2017. (Program Co-Chair)
+6.	UCL Computer Science Mini Conference: 2016. (Program Co-Chair)
 
 **Program Committee (PC) Member:**
 
-1. USENIX Security: 2021, 2022.
+1.	USENIX Security Symposium: 2021, 2022.
+2.	European Symposium on Research in Computer Security (ESORICS): 2021, 2022.
+3.	IEEE European Symposium on Security and Privacy (EuroS&P): 2021.
+4.	Workshop on Privacy in the Electronic Society (WPES): 2020.
+5.	Privacy-Enhancing Technologies Symposium (PETS/PoPETs): 2019, 2020, 2021, 2023. (Editorial Board)
+6.	European Workshop on Usable Security (EuroUSEC): 2019.
+7.	IEEE Symposium on Security and Privacy (Oakland): 2019. (Student PC)
+8.	Grace Hopper Celebration (GHC) of Women in Computing (Security and Privacy Track): 2018.
 
-1. IEEE EuroS&P: 2021.
+**Poster Jury Member:**
 
-1. ESORICS: 2021.
-
-1. WPES: 2020.
-
-1. PETS/PoPETs: 2019, 2020, 2021.
-
-1. EuroUSEC: 2019.
-
-1. GHC (Security and Privacy Track): 2018.
-
-**Student Program Committee (PC) Member:**
-
-1. IEEE S&P (Oakland): 2019.
-
-**Posters Jury Member:**
-
-1. IEEE S&P (Oakland): 2019.
-
-1. USENIX SOUPS: 2018, 2019.
+1.	IEEE Symposium on Security and Privacy (Oakland): 2019.
+2.	USENIX Symposium on Usable Privacy and Security (SOUPS): 2018, 2019.
 
 **Invited External Reviewer:**
 
-1. ACM CCS: 2021.
-
-1. ACM TOPS: 2020.
-
-1. ESORICS: 2020.
-
-1. IEEE S&P (Oakland): 2020.
-
-1. HICSS: 2019.
-
-1. ACM CSCW: 2018.
-
-1. ACM MobileHCI: 2018.
-
-1. ACM VRST: 2018.
-
-1. Journal of Computer Security: 2018.
-
-1. PETS/PoPETs: 2018.
-
-1. ACM CHI: 2016, 2019-2021.
-
-1. EuroUSEC: 2016.
-
-1. IEEE S&P Magazine: 2016.
-
-1. STAST: 2016.
-
-1. WPES: 2016.
-
-1. Financial Crypto: 2015.
-
-1. USENIX Security: 2015.
+1.	IEEE Internet Computing: 2022.
+2.	Behaviour & Information Technology: 2022.
+3.	Journal of Human-Computer Studies: 2021.
+4.	ACM Conference on Computer and Communications Security (CCS): 2021.
+5.	ACM Transactions on Privacy and Security (TOPS): 2020.
+6.	European Symposium on Research in Computer Security (ESORICS): 2020.
+7.	IEEE Symposium on Security and Privacy (Oakland): 2020.
+8.	ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW): 2018.
+9.	ACM Conference on Human Factors in Computing Systems (CHI): 2016, 2019-2022.
+10.	ACM Symposium on Virtual Reality Software and Technology (VRST): 2018.
+11.	Journal of Computer Security: 2017, 2018.
+12.	Privacy-Enhancing Technologies Symposium (PETS/PoPETs): 2018.
+13.	European Workshop on Usable Security (EuroUSEC): 2016.
+14.	IEEE Security and Privacy Magazine: 2016.
+15.	Workshop on Privacy in the Electronic Society (WPES): 2016.
+16.	Workshop on Socio-Technical Aspects in Security and Trust (STAST): 2016.
+17.	International Conference on Financial Cryptography and Data Security: 2015.
+18.	USENIX Security Symposium: 2015.
