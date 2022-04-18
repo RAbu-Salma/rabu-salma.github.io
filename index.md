@@ -122,7 +122,6 @@ Twitter: [@Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma)
 
 ### Academic Service
 **Organizing Committee Member:**
-
 1.	National Research Centre on Privacy, Harm Reduction, and Adversarial Influence Online (REPHRAIN): 2022, 2023. (Research Ethics Board Member)
 2.	PETS Workshop on Interdependent and Multi-Party Privacy: 2022.
 3.	USENIX Symposium on Usable Privacy and Security (SOUPS): 2021. (Junior Mentoring Co-Chair)
@@ -131,7 +130,6 @@ Twitter: [@Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma)
 6.	UCL Computer Science Mini Conference: 2016. (Program Co-Chair)
 
 **Program Committee (PC) Member:**
-
 1.	USENIX Security Symposium: 2021, 2022.
 2.	European Symposium on Research in Computer Security (ESORICS): 2021, 2022.
 3.	IEEE European Symposium on Security and Privacy (EuroS&P): 2021.
@@ -142,12 +140,10 @@ Twitter: [@Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma)
 8.	Grace Hopper Celebration (GHC) of Women in Computing (Security and Privacy Track): 2018.
 
 **Poster Jury Member:**
-
 1.	IEEE Symposium on Security and Privacy (Oakland): 2019.
 2.	USENIX Symposium on Usable Privacy and Security (SOUPS): 2018, 2019.
 
 **Invited External Reviewer:**
-
 1.	IEEE Internet Computing: 2022.
 2.	Behaviour & Information Technology: 2022.
 3.	Journal of Human-Computer Studies: 2021.
