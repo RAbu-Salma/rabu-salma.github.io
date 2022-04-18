@@ -9,7 +9,7 @@ Ruba completed her Ph.D. in Computer Science from University College London (UCL
 Twitter: [@Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma)
 
 ### Publications
-1. Sean Oesch, **Ruba Abu-Salma**, Oumar Souleymane Diallo, Juliane Kramer, James Simmons, Justin Wu, and Scott Ruoti. User Perceptions of Security and Privacy for Group Chat. In [ACM Journal of Digital Threats: Research and Practice (DTRAP)](https://dl.acm.org/journal/dtrap), 2021.
+1. Sean Oesch, **Ruba Abu-Salma**, Oumar Souleymane Diallo, Juliane Kramer, James Simmons, Justin Wu, and Scott Ruoti. User Perceptions of Security and Privacy for Group Chat. In [ACM Journal of Digital Threats: Research and Practice (DTRAP)](https://dl.acm.org/journal/dtrap), 2022.
 
 1. Borce Stojkovski, **Ruba Abu-Salma**, Gabriele Lenzini, and Karen Triquet. “Unless one does the research, it may seem as just a useless battery-consuming app” – Field Notes on COVID-19 Contact-Tracing Applications. In [ACM Journal of Digital Threats: Research and Practice (DTRAP)](https://dl.acm.org/journal/dtrap), 2021.
 
@@ -50,7 +50,9 @@ Twitter: [@Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma)
 1. Fadi Aloul, Imran Zualkernan, **Ruba Abu-Salma**, Hamed Al-Ali, and May Al-Merri. iBump: A Smartphone Application to Detect Car Accidents. In [Elsevier Journal of Computers and Electrical Engineering (JCEE)](https://www.journals.elsevier.com/computers-and-electrical-engineering), 2015.
 
 ### Talks
-1. Designing User-Centered Privacy-Enhancing Technologies. Cybersecurity (CYS) Seminar, King’s College London (KCL), UK (June 03, 2021).
+1.	Is Digital Privacy About Power? UK Cybersecurity Ph.D. Winter School, University of Surrey, UK (January 10, 2022).
+
+1.	Designing User-Centered Privacy-Enhancing Technologies. Cybersecurity (CYS) Seminar, Dept. of Informatics, King’s College London (KCL), UK (June 03, 2021).
 
 1. Bystanders’ Privacy: The Perspectives of Nannies on Smart Home Surveillance. International Computer Science Institute (ICSI), University of California, Berkeley, CA, USA (Apr. 23, 2020).
 
