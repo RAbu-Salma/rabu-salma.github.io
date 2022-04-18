@@ -122,7 +122,7 @@ Twitter: [@Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma)
 
 ### Academic Service
 **Organizing Committee Member:**
-1.	National Research Centre on Privacy, Harm Reduction, and Adversarial Influence Online (REPHRAIN): 2022, 2023. (Research Ethics Board Member)
+1.	UKRI National Research Centre on Privacy, Harm Reduction, and Adversarial Influence Online (REPHRAIN): 2022, 2023. (Research Ethics Board Member)
 2.	PETS Workshop on Interdependent and Multi-Party Privacy: 2022.
 3.	USENIX Symposium on Usable Privacy and Security (SOUPS): 2021. (Junior Mentoring Co-Chair)
 4.	IEEE European Symposium on Security and Privacy (EuroS&P): 2018. (Publicity Chair)
