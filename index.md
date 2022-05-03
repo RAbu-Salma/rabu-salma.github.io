@@ -9,7 +9,7 @@ Ruba completed her Ph.D. in Computer Science from University College London (UCL
 Twitter: [@Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma)
 
 ### Publications
-1. Julia Slupska, Selina Cho, Marissa Begonia, **Ruba Abu-Salma**, Nayanatara Prakash, and Mallika Balakrishnan. “They Look at Vulnerability and Use That to Abuse You”: Participatory Threat Modelling with Migrant Domestic Workers. In Proc. [USENIX Security Symposium](https://www.usenix.org/conference/usenixsecurity22), Boston, MA, USA, 2022. (To Appear)
+1. Julia Slupska, Selina Cho, Marissa Begonia, **Ruba Abu-Salma**, Nayanatara Prakash, and Mallika Balakrishnan. “They Look at Vulnerability and Use That to Abuse You”: Participatory Threat Modelling with Migrant Domestic Workers. In Proc. [USENIX Security Symposium (USENIX Sec)](https://www.usenix.org/conference/usenixsecurity22), Boston, MA, USA, 2022. (To Appear)
 
 1. Sean Oesch, **Ruba Abu-Salma**, Oumar Souleymane Diallo, Juliane Kramer, James Simmons, Justin Wu, and Scott Ruoti. User Perceptions of Security and Privacy for Group Chat. In [ACM Journal of Digital Threats: Research and Practice (DTRAP)](https://dl.acm.org/journal/dtrap), 2022.
 
