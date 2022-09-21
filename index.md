@@ -7,7 +7,9 @@ Ruba defended her doctoral dissertation in 2019, earning a Ph.D. in Computer Sci
 Twitter: [@Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma)
 
 ### Publications
-1.	Julia Bernd, **Ruba Abu-Salma**, Junghyun Choy, and Alisa Frik. Balancing Power Dynamics in Smart Homes: Nannies’ Perspectives on How Cameras Reflect and Affect Relationships. In [USENIX Symposium on Usable Privacy and Security (SOUPS)](https://www.usenix.org/conference/soups2022), Boston, MA, USA, 2022.
+1. Noura Abdi, Tess Despres, **Ruba Abu-Salma**, and Julia Bernd. In-Home Smart Devices: Quantifying Bystander Privacy Experiences and Social Norms in Different Situations. In Annual Symposium on Applications of Contextual Integrity (CI Symposium), New York City, NY, USA, 2022.
+
+1. Julia Bernd, **Ruba Abu-Salma**, Junghyun Choy, and Alisa Frik. Balancing Power Dynamics in Smart Homes: Nannies’ Perspectives on How Cameras Reflect and Affect Relationships. In [USENIX Symposium on Usable Privacy and Security (SOUPS)](https://www.usenix.org/conference/soups2022), Boston, MA, USA, 2022.
 
 1. Julia Slupska, Selina Cho, Marissa Begonia, **Ruba Abu-Salma**, Nayanatara Prakash, and Mallika Balakrishnan. “They Look at Vulnerability and Use That to Abuse You”: Participatory Threat Modelling with Migrant Domestic Workers. In Proc. [USENIX Security Symposium (USENIX Sec)](https://www.usenix.org/conference/usenixsecurity22), Boston, MA, USA, 2022.
 
@@ -120,49 +122,54 @@ Twitter: [@Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma)
 1. INVITED: Supporting Usability and Design in Security. [Open Technology Fund (OTF) Summit](https://www.opentech.fund), Valencia, Spain (Nov. 14, 2017).
 
 ### Teaching
+•	7CCSMSEN: Security Engineering (M.Sc. in Cybersecurity), Dept. of Informatics, King’s College London (KCL), UK (Fall 2022).
+
 •	7CCSMSEN: Security Engineering (M.Sc. in Cybersecurity), Dept. of Informatics, King’s College London (KCL), UK (Fall 2021).
 
-•	COMP0056: People and Security (M.Sc. in Information Security), Dept. of Computer Science, University College London (UCL), UK (Fall 2020).
+•	EXTERNAL: COMP0056: People and Security (M.Sc. in Information Security), Dept. of Computer Science, University College London (UCL), UK (Fall 2020).
 
 ### Academic Service
-**Organizing Committee Member:**
-1.	UKRI National Research Centre on Privacy, Harm Reduction, and Adversarial Influence Online (REPHRAIN): 2022, 2023. (Research Ethics Board Member)
-2.	PETS Workshop on Interdependent and Multi-Party Privacy: 2022.
-3.	USENIX Symposium on Usable Privacy and Security (SOUPS): 2021. (Junior Mentoring Co-Chair)
-4.	IEEE European Symposium on Security and Privacy (EuroS&P): 2018. (Publicity Chair)
-5.	Workshop on Cryptography, Robustness, and Provably Secure Schemes for Female Young Researchers (CrossFyre): 2017. (Program Co-Chair)
-6.	UCL Computer Science Mini Conference: 2016. (Program Co-Chair)
+**Organizing Committee Member**
+o	UKRI National Research Centre on Privacy, Harm Reduction and Adversarial Influence Online (REPHRAIN): 2022, 2023. (Research Ethics Board Member)
+o	KCL/Ofcom Workshop on the Opportunities and Challenges of the UK Online Safety Bill: 2022. (Organizer)
+o	USENIX Symposium on Usable Privacy and Security (SOUPS): 2022. (Academic Mentor)
+o	PETs Workshop on Interdependent and Multi-Party Privacy: 2022. (Co-Organizer)
+o	USENIX Symposium on Usable Privacy and Security (SOUPS): 2021. (Junior Mentoring Co-Chair)
+o	IEEE European Symposium on Security and Privacy (EuroS&P): 2018. (Publicity Chair)
+o	Workshop on Cryptography, Robustness, and Provably Secure Schemes for Female Young Researchers (CrossFyre): 2017. (Program Co-Chair)
+o	UCL Computer Science Mini Conference: 2016. (Program Co-Chair)
 
-**Program Committee (PC) Member:**
-1.	USENIX Security Symposium: 2021, 2022.
-2.	European Symposium on Research in Computer Security (ESORICS): 2021, 2022.
-3.	IEEE European Symposium on Security and Privacy (EuroS&P): 2021.
-4.	Workshop on Privacy in the Electronic Society (WPES): 2020.
-5.	Privacy-Enhancing Technologies Symposium (PETS/PoPETs): 2019, 2020, 2021, 2023. (Editorial Board)
-6.	European Workshop on Usable Security (EuroUSEC): 2019.
-7.	IEEE Symposium on Security and Privacy (Oakland): 2019. (Student PC)
-8.	Grace Hopper Celebration (GHC) of Women in Computing (Security and Privacy Track): 2018.
+**Technical Program Committee Member / Associate Chair**
+o	ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW): 2023.
+o	USENIX Security Symposium (USENIX SEC): 2021, 2022.
+o	European Symposium on Research in Computer Security (ESORICS): 2021, 2022.
+o	IEEE European Symposium on Security and Privacy (EuroS&P): 2021.
+o	Workshop on Privacy in the Electronic Society (WPES): 2020.
+o	Privacy-Enhancing Technologies Symposium (PETS/PoPETs): 2019, 2020, 2021, 2023. (Editorial Board)
+o	European Workshop on Usable Security (EuroUSEC): 2019.
+o	IEEE Symposium on Security and Privacy (Oakland): 2019. (Student PC)
+o	Grace Hopper Celebration (GHC) of Women in Computing (Security and Privacy Track): 2018.
 
-**Poster Jury Member:**
-1.	IEEE Symposium on Security and Privacy (Oakland): 2019.
-2.	USENIX Symposium on Usable Privacy and Security (SOUPS): 2018, 2019.
+**Poster Jury Member**
+o	IEEE Symposium on Security and Privacy (Oakland): 2019.
+o	USENIX Symposium on Usable Privacy and Security (SOUPS): 2018, 2019.
 
-**Invited External Reviewer:**
-1.	IEEE Internet Computing: 2022.
-2.	Behaviour & Information Technology: 2022.
-3.	Journal of Human-Computer Studies: 2021.
-4.	ACM Conference on Computer and Communications Security (CCS): 2021.
-5.	ACM Transactions on Privacy and Security (TOPS): 2020.
-6.	European Symposium on Research in Computer Security (ESORICS): 2020.
-7.	IEEE Symposium on Security and Privacy (Oakland): 2020.
-8.	ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW): 2018.
-9.	ACM Conference on Human Factors in Computing Systems (CHI): 2016, 2019-2022.
-10.	ACM Symposium on Virtual Reality Software and Technology (VRST): 2018.
-11.	Journal of Computer Security: 2017, 2018.
-12.	Privacy-Enhancing Technologies Symposium (PETS/PoPETs): 2018.
-13.	European Workshop on Usable Security (EuroUSEC): 2016.
-14.	IEEE Security and Privacy Magazine: 2016.
-15.	Workshop on Privacy in the Electronic Society (WPES): 2016.
-16.	Workshop on Socio-Technical Aspects in Security and Trust (STAST): 2016.
-17.	International Conference on Financial Cryptography and Data Security: 2015.
-18.	USENIX Security Symposium: 2015.
+**Invited External Reviewer**
+o	Behaviour & Information Technology: 2022.
+o	IEEE Internet Computing: 2022.
+o	Journal of Human-Computer Studies: 2021.
+o	ACM Conference on Computer and Communications Security (CCS): 2021.
+o	ACM Transactions on Privacy and Security (TOPS): 2020.
+o	European Symposium on Research in Computer Security (ESORICS): 2020.
+o	IEEE Symposium on Security and Privacy (Oakland): 2020.
+o	ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW): 2018.
+o	ACM Conference on Human Factors in Computing Systems (CHI): 2016, 2019-2022.
+o	ACM Symposium on Virtual Reality Software and Technology (VRST): 2018.
+o	Journal of Computer Security: 2017, 2018.
+o	Privacy-Enhancing Technologies Symposium (PETS/PoPETs): 2018.
+o	European Workshop on Usable Security (EuroUSEC): 2016.
+o	IEEE Security and Privacy Magazine: 2016.
+o	Workshop on Privacy in the Electronic Society (WPES): 2016.
+o	Workshop on Socio-Technical Aspects in Security and Trust (STAST): 2016.
+o	International Conference on Financial Cryptography and Data Security: 2015.
+o	USENIX Security Symposium: 2015.
