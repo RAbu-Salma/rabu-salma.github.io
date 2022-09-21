@@ -134,6 +134,7 @@ Twitter: [@Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma)
 
 ### Academic Service
 **Organizing Committee Member**
+
 o	UKRI National Research Centre on Privacy, Harm Reduction and Adversarial Influence Online (REPHRAIN): 2022, 2023. (Research Ethics Board Member)
 
 o	KCL/Ofcom Workshop on the Opportunities and Challenges of the UK Online Safety Bill: 2022. (Organizer)
@@ -151,6 +152,7 @@ o	Workshop on Cryptography, Robustness, and Provably Secure Schemes for Female Y
 o	UCL Computer Science Mini Conference: 2016. (Program Co-Chair)
 
 **Technical Program Committee Member / Associate Chair**
+
 o	ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW): 2023.
 
 o	USENIX Security Symposium (USENIX SEC): 2021, 2022.
@@ -170,11 +172,13 @@ o	IEEE Symposium on Security and Privacy (Oakland): 2019. (Student PC)
 o	Grace Hopper Celebration (GHC) of Women in Computing (Security and Privacy Track): 2018.
 
 **Poster Jury Member**
+
 o	IEEE Symposium on Security and Privacy (Oakland): 2019.
 
 o	USENIX Symposium on Usable Privacy and Security (SOUPS): 2018, 2019.
 
 **Invited External Reviewer**
+
 o	Behaviour & Information Technology: 2022.
 
 o	IEEE Internet Computing: 2022.
