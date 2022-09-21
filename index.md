@@ -56,7 +56,7 @@ Twitter: [@Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma)
 1. Fadi Aloul, Imran Zualkernan, **Ruba Abu-Salma**, Hamed Al-Ali, and May Al-Merri. iBump: A Smartphone Application to Detect Car Accidents. In [Elsevier Journal of Computers and Electrical Engineering (JCEE)](https://www.journals.elsevier.com/computers-and-electrical-engineering), 2015.
 
 ### Talks
-1. INVITED: “They Look at Vulnerability and Use That to Abuse You”: Participatory Threat Modelling with Migrant Domestic Workers. Information Security Group (ISG) Research Seminar, Royal Holloway, University of London (RHUL), UK (Nov. 4, 2022).
+1. INVITED: “They Look at Vulnerability and Use That to Abuse You”: Participatory Threat Modelling with Migrant Domestic Workers. Information Security Group (ISG) Research Seminar, Royal Holloway, University of London (RHUL), UK (Nov. 3, 2022).
 
 1. Is Digital Privacy About Power? UK Cybersecurity Ph.D. Winter School, University of Surrey, UK (January 10, 2022).
 
