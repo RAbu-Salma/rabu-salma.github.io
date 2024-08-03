@@ -15,7 +15,7 @@ Twitter: [@Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma)
 
 1.	Yixin Zou, Kaiwen Sun, Tanisha Afnan, **Ruba Abu-Salma**, Robin Brewer, and Florian Schaub. Cross-Contextual Examination of Older Adults’ Privacy Concerns, Behaviors, and Vulnerabilities. In Proceedings of Privacy-Enhancing Technologies (PoPETs), Bristol, UK, 2024.
 
-1.	Lisa Mekioussa Malki, Ina Kaleva, Dilisha Patel, Mark Warner, and **Ruba Abu-Salma**. Exploring Privacy Practices of Female mHealth Apps in a Post-Roe World. In ACM Conference on Human Factors in Computing Systems (CHI), Honolulu, Hawaii, 2024.
+1.	Lisa Mekioussa Malki, Ina Kaleva, Dilisha Patel, Mark Warner, and **Ruba Abu-Salma**. Exploring Privacy Practices of Female mHealth Apps in a Post-Roe World. In ACM Conference on Human Factors in Computing Systems (CHI), Honolulu, Hawaii, USA, 2024.
 
 1.	Mohammad Tahaei, **Ruba Abu-Salma**, and Awais Rashid. Stuck in the Permissions With You: Developer & End-User Perspectives on App Permissions & Their Privacy Ramifications. In ACM Conference on Human Factors in Computing Systems (CHI), Hamburg, Germany, 2023.
 
