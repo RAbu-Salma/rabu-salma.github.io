@@ -9,6 +9,18 @@ Ruba defended her doctoral dissertation in 2019, earning a Ph.D. in Computer Sci
 Twitter: [@Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma)
 
 ### Publications
+1.	Mohammad Tahaei, Daricia Wilkinson, Alisa Frik, Michael Muller, **Ruba Abu-Salma**, and Lauren Wilcox. Surveys Considered Harmful? Reflecting on the Use of Surveys in AI Research, Development, and Governance. In Proceedings of AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES), Santa Clara, CA, USA, 2024.
+
+1.	Tess Despres, Marcelino Ayala Constantino, Naomi Zacarias Lizola, Gerardo Sanchez Romero, Shijing He, Xiao Zhan, Noura Abdi, **Ruba Abu-Salma**, Jose Such, and Julia Bernd. “My Best Friend’s Husband Sees and Knows Everything”: A Cross-Contextual and Cross-Country Approach to Understanding Smart Home Privacy. In Proceedings of Privacy-Enhancing Technologies (PoPETs), Bristol, UK, 2024.
+
+1.	Yixin Zou, Kaiwen Sun, Tanisha Afnan, **Ruba Abu-Salma**, Robin Brewer, and Florian Schaub. Cross-Contextual Examination of Older Adults’ Privacy Concerns, Behaviors, and Vulnerabilities. In Proceedings of Privacy-Enhancing Technologies (PoPETs), Bristol, UK, 2024.
+
+1.	Lisa Mekioussa Malki, Ina Kaleva, Dilisha Patel, Mark Warner, and **Ruba Abu-Salma**. Exploring Privacy Practices of Female mHealth Apps in a Post-Roe World. In ACM Conference on Human Factors in Computing Systems (CHI), Honolulu, Hawaii, 2024.
+
+1.	Mohammad Tahaei, **Ruba Abu-Salma**, and Awais Rashid. Stuck in the Permissions With You: Developer & End-User Perspectives on App Permissions & Their Privacy Ramifications. In ACM Conference on Human Factors in Computing Systems (CHI), Hamburg, Germany, 2023.
+
+1.	**Ruba Abu-Salma**, et al. Workshop on Diverse Migration Journeys and Security Practices: Engaging with Longitudinal Perspectives of Migration and (Digital) Security. In Extended Abstracts of ACM Conference on Human Factors in Computing Systems (CHI EA), Hamburg, Germany, 2023.
+
 1. Noura Abdi, Tess Despres, **Ruba Abu-Salma**, and Julia Bernd. In-Home Smart Devices: Quantifying Bystander Privacy Experiences and Social Norms in Different Situations. In Annual Symposium on Applications of Contextual Integrity (CI Symposium), New York City, NY, USA, 2022.
 
 1. Julia Bernd, **Ruba Abu-Salma**, Junghyun Choy, and Alisa Frik. Balancing Power Dynamics in Smart Homes: Nannies’ Perspectives on How Cameras Reflect and Affect Relationships. In [USENIX Symposium on Usable Privacy and Security (SOUPS)](https://www.usenix.org/conference/soups2022), Boston, MA, USA, 2022.
