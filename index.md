@@ -10,7 +10,7 @@ Twitter: [@Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma)
 
 ### Publications
 1.	**Ruba Abu-Salma**, Junghyun Choy, Alisa Frik, and Julia Bernd. “They Didn't Buy Their Smart TV to Watch Me with the Kids”:
-Comparing Nannies' and Parents' Privacy Threat Models for Smart Home Devices, ACM Transactions on Computer-Human Interaction (TOCHI), 2024.
+Comparing Nannies' and Parents' Privacy Threat Models for Smart Home Devices. In ACM Transactions on Computer-Human Interaction (TOCHI), 2024.
 
 1.	Mohammad Tahaei, Daricia Wilkinson, Alisa Frik, Michael Muller, **Ruba Abu-Salma**, and Lauren Wilcox. Surveys Considered Harmful? Reflecting on the Use of Surveys in AI Research, Development, and Governance. In Proceedings of AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES), Santa Clara, CA, USA, 2024.
 
