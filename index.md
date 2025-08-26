@@ -1,5 +1,7 @@
 Ruba Abu-Salma is a Senior Lecturer (~Associate Professor) in Computer Science at King’s College London, affiliated with the Cybersecurity Group and Human-Centered Computing Group in the Department of Informatics. She is also Deputy Head of the Cybersecurity Group and Co-Champion of the department’s Security Hub. Her research is interdisciplinary, sitting at the intersection of cybersecurity, privacy, human-computer interaction (HCI), emerging technologies, and public policy. She uses computational and social science methods to understand and improve people’s security, privacy, and safety decision-making processes, with a focus on at-risk populations. Her work has been published at top-tier venues, including IEEE S&P (Oakland), USENIX Security, ACM CHI, and ACM TOCHI, and has been featured in national and international media outlets such as BBC News, BBC Women’s Hour, Financial Times, The Register, Euronews, The New York Times, CNET, Science News, and Politico.
+
 Before joining King’s in 2021, Ruba was a Postdoctoral Researcher in the Usable Security and Privacy Group at the International Computer Science Institute (ICSI) at the University of California, Berkeley, and in the PRIVATICS Team at INRIA Sophia Antipolis.
+
 Ruba defended her doctoral thesis in December 2019, earning a Ph.D. in Computer Science from University College London (UCL). Her dissertation focused on designing user-centered privacy-enhancing technologies. As a postgraduate student, she was supported by Google, a Marie-Skłodowska Curie Research Fellowship, and a Supporting Usability and Design in Security (SUDS) Fellowship from the Open Technology Fund (OTF). She also performed research at the Open Data Institute, Cambridge Cybercrime Centre, Brave, and Telefónica Research.
 
 **Ruba is always on the lookout for talented Ph.D. students to work with her on topics sitting at the intersection of cybersecurity, privacy, HCI, and at-risk/marginalized populations. Interested candidates should email her (at ruba.abu-salma@kcl.ac.uk) their CV, a short research proposal, and any previous publications.**
@@ -273,3 +275,4 @@ o	Workshop on Socio-Technical Aspects in Security and Trust (STAST): 2016.
 o	International Conference on Financial Cryptography and Data Security: 2015.
 
 o	USENIX Security Symposium: 2015.
+
