@@ -142,15 +142,8 @@ Twitter: [@Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma)
 
 1. INVITED: Differentially Private Statistics. [Genetics, Evolution and Environmental (GEE) Departmental Seminar](https://www.ucl.ac.uk/gee/seminars), [University College London (UCL)](http://www.ucl.ac.uk/), UK (Dec. 9, 2014).
 
-### Panels
-1. INVITED: [Obfuscating Ownership: Privacy and Sousveillance (OOPS)](https://www.herts.ac.uk/uhbow/whats-on/2018-autumn-and-winter/oops-exhibition). [University of Hertfordshire](https://www.herts.ac.uk), UK (Dec. 10, 2018).
-
-1. Cryptogame: Pirates and Guardians of the Galaxy. [Mozilla Festival (MozFest)](https://mozillafestival.org), London, UK (Oct. 27, 2018).
-
-1. INVITED: Supporting Usability and Design in Security. [Open Technology Fund (OTF) Summit](https://www.opentech.fund), Valencia, Spain (Nov. 14, 2017).
-
 ### Teaching
-•	7CCSMSEN: Security Engineering (M.Sc. in Cybersecurity), Dept. of Informatics, King’s College London (KCL), UK (Fall 2022).
+•	7CCSMSEN: Security Engineering (M.Sc. in Cybersecurity), Dept. of Informatics, King’s College London (KCL), UK (Fall 2022-2025).
 
 •	7CCSMSEN: Security Engineering (M.Sc. in Cybersecurity), Dept. of Informatics, King’s College London (KCL), UK (Fall 2021).
 
@@ -276,6 +269,7 @@ o	Workshop on Socio-Technical Aspects in Security and Trust (STAST): 2016.
 o	International Conference on Financial Cryptography and Data Security: 2015.
 
 o	USENIX Security Symposium: 2015.
+
 
 
 
