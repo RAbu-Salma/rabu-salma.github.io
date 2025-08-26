@@ -19,7 +19,7 @@ Twitter: [@Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma)
 
 1. Eimaan Saqib*, Junghyun Choy*, Shijing He*, **Ruba Abu-Salma**, Jose Such, Julia Bernd, and Mobin Javed. Bystander Privacy in Smart Homes: A Systematic Review of Concerns and Solutions. In ACM Transactions on Computer-Human Interaction (TOCHI), 2025.
 
-1. Shijing He*, Xiao Zhan, Yaxiong Lei, Yueyan Liu, **Ruba Abu-Salma**, and Jose Such. Exploring the Privacy and Security Challenges Faced by Migrant Domestic Workers in Chinese Smart Homes. In ACM Conference on Human Factors in Computing Systems (CHI), Yokohama, Japan, 2025. (Acceptance rate: 1,249/5,014 ≈ 25%)
+1. Shijing He*, Xiao Zhan, Yaxiong Lei, Yueyan Liu, **Ruba Abu-Salma**, and Jose Such. Exploring the Privacy and Security Challenges Faced by Migrant Domestic Workers in Chinese Smart Homes. In ACM Conference on Human Factors in Computing Systems (CHI), Yokohama, Japan, 2025.
 
 1.	Mohammad Tahaei, Daricia Wilkinson, Alisa Frik, Michael Muller, **Ruba Abu-Salma**, and Lauren Wilcox. Surveys Considered Harmful? Reflecting on the Use of Surveys in AI Research, Development, and Governance. In Proceedings of AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES), Santa Clara, CA, USA, 2024.
 
@@ -275,4 +275,5 @@ o	Workshop on Socio-Technical Aspects in Security and Trust (STAST): 2016.
 o	International Conference on Financial Cryptography and Data Security: 2015.
 
 o	USENIX Security Symposium: 2015.
+
 
