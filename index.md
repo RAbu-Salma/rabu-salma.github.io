@@ -1,16 +1,23 @@
-Ruba Abu-Salma is a Lecturer (Assistant Professor) in Computer Science at King’s College London (KCL). Ruba is affiliated with the Cybersecurity Group and the Human Centered Computing Group in the Department of Informatics. Her research is interdisciplinary. She works at the intersection of cybersecurity, privacy, human-computer interaction (HCI), and public policy. She uses computational and social science research methods to understand and improve people’s security, privacy, and safety decision-making processes, with a focus on vulnerable, marginalized, and/or stigmatized populations. She works closely with communities and charities to design technical, social, and legal interventions that are grounded in equality, justice, and safety for all. Her work has been published at top-tier venues, including IEEE S&P (Oakland), USENIX Security, and ACM CHI. Her work has also been covered by the popular press such as The New York Times, The Register, and CNET.
-
-Before joining KCL in 2021, Ruba was a Postdoctoral Researcher in the Usable Security and Privacy Group at the International Computer Science Institute (ICSI) at the University of California, Berkeley, and in the PRIVATICS Team at INRIA Sophia Antipolis.
-
-Ruba defended her doctoral dissertation in 2019, earning a Ph.D. in Computer Science from University College London (UCL). Her dissertation focused on designing user-centered privacy-enhancing technologies. As a postgraduate student, she was supported by Google, a Marie-Skłodowska Curie Research Fellowship, and a Supporting Usability and Design in Security (SUDS) Fellowship from the Open Technology Fund (OTF). She also performed research at the Cambridge Cybercrime Center, Brave, and Telefónica Research.
+Ruba Abu-Salma is a Senior Lecturer (~Associate Professor) in Computer Science at King’s College London, affiliated with the Cybersecurity Group and Human-Centered Computing Group in the Department of Informatics. She is also Deputy Head of the Cybersecurity Group and Co-Champion of the department’s Security Hub. Her research is interdisciplinary, sitting at the intersection of cybersecurity, privacy, human-computer interaction (HCI), emerging technologies, and public policy. She uses computational and social science methods to understand and improve people’s security, privacy, and safety decision-making processes, with a focus on at-risk populations. Her work has been published at top-tier venues, including IEEE S&P (Oakland), USENIX Security, ACM CHI, and ACM TOCHI, and has been featured in national and international media outlets such as BBC News, BBC Women’s Hour, Financial Times, The Register, Euronews, The New York Times, CNET, Science News, and Politico.
+Before joining King’s in 2021, Ruba was a Postdoctoral Researcher in the Usable Security and Privacy Group at the International Computer Science Institute (ICSI) at the University of California, Berkeley, and in the PRIVATICS Team at INRIA Sophia Antipolis.
+Ruba defended her doctoral thesis in December 2019, earning a Ph.D. in Computer Science from University College London (UCL). Her dissertation focused on designing user-centered privacy-enhancing technologies. As a postgraduate student, she was supported by Google, a Marie-Skłodowska Curie Research Fellowship, and a Supporting Usability and Design in Security (SUDS) Fellowship from the Open Technology Fund (OTF). She also performed research at the Open Data Institute, Cambridge Cybercrime Centre, Brave, and Telefónica Research.
 
 **Ruba is always on the lookout for talented Ph.D. students to work with her on topics sitting at the intersection of cybersecurity, privacy, HCI, and at-risk/marginalized populations. Interested candidates should email her (at ruba.abu-salma@kcl.ac.uk) their CV, a short research proposal, and any previous publications.**
 
 Twitter: [@Ruba_AbuSalma](https://twitter.com/Ruba_AbuSalma)
 
 ### Publications
-1.	**Ruba Abu-Salma**, Junghyun Choy, Alisa Frik, and Julia Bernd. “They Didn't Buy Their Smart TV to Watch Me with the Kids”:
-Comparing Nannies' and Parents' Privacy Threat Models for Smart Home Devices. In ACM Transactions on Computer-Human Interaction (TOCHI), 2024.
+1. Atmadeep Ghosal*, Martim Brandao, **Ruba Abu-Salma**, and Sanjay Modgil. Embodied AI at the Margins: Postcolonial Ethics for Intelligent Robotic Systems. In AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES), Madrid, Spain, 2025.
+
+1. Atmadeep Ghosal*, Martim Brandao, and **Ruba Abu-Salma**. Value Alignment in the Global South: A Multidimensional Approach to Norm Elicitation in Indian Contexts. In ICLR Workshop on Bidirectional Human-AI Alignment, Singapore, 2025.
+
+1. **Ruba Abu-Salma**, Pauline Anthonysamy, Zinaida Benenson, etc. Grand Challenges in Human-Centered Privacy. In IEEE Security and Privacy Magazine, 2025.
+
+1. **Ruba Abu-Salma**, Junghyun Choy*, Alisa Frik, and Julia Bernd. “They Didn’t Buy Their Smart TV to Watch Me with the Kids”: Comparing Nannies’ and Parents’ Privacy Threat Models for Smart Home Devices. In ACM Transactions on Computer-Human Interaction (TOCHI), 2025.
+
+1. Eimaan Saqib*, Junghyun Choy*, Shijing He*, **Ruba Abu-Salma**, Jose Such, Julia Bernd, and Mobin Javed. Bystander Privacy in Smart Homes: A Systematic Review of Concerns and Solutions. In ACM Transactions on Computer-Human Interaction (TOCHI), 2025.
+
+1. Shijing He*, Xiao Zhan, Yaxiong Lei, Yueyan Liu, **Ruba Abu-Salma**, and Jose Such. Exploring the Privacy and Security Challenges Faced by Migrant Domestic Workers in Chinese Smart Homes. In ACM Conference on Human Factors in Computing Systems (CHI), Yokohama, Japan, 2025. (Acceptance rate: 1,249/5,014 ≈ 25%)
 
 1.	Mohammad Tahaei, Daricia Wilkinson, Alisa Frik, Michael Muller, **Ruba Abu-Salma**, and Lauren Wilcox. Surveys Considered Harmful? Reflecting on the Use of Surveys in AI Research, Development, and Governance. In Proceedings of AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society (AIES), Santa Clara, CA, USA, 2024.
 
@@ -148,11 +155,31 @@ Comparing Nannies' and Parents' Privacy Threat Models for Smart Home Devices. In
 •	EXTERNAL: COMP0056: People and Security (M.Sc. in Information Security), Dept. of Computer Science, University College London (UCL), UK (Fall 2020).
 
 ### Academic Service
+**Research Ethics Committee Member**
+
+o	USENIX Security Symposium (USENIX SEC): 2024.
+
+o	UKRI National Research Centre on Privacy, Harm Reduction and Adversarial Influence Online (REPHRAIN): 2022—2026.
+
+**Award Committee Member**
+
+o	Caspar Bowden Award for Outstanding Research in PETs: 2025.
+
 **Organizing Committee Member**
 
-o	UKRI National Research Centre on Privacy, Harm Reduction and Adversarial Influence Online (REPHRAIN): 2022, 2023. (Research Ethics Board Member)
+o	International Workshop on Sociotechnical Aspects in Security (STAST): 2024. (Program Chair)
 
-o	KCL/Ofcom Workshop on the Opportunities and Challenges of the UK Online Safety Bill: 2022. (Organizer)
+o	PETs Workshop on Privacy, Safety, and Trust in Mobile Health Apps: 2024. (Organizer)
+
+o	International Workshop on Sociotechnical Aspects in Security (STAST): 2023. (Program Co-Chair)
+
+o	ACM CHI Workshop on Diverse Migration Journeys and Security Practices: 2023. (Organizer)
+
+o	UK Security and Privacy Seminar (UK-SPS): 2023. (Co-Organizer)
+
+o	King’s Workshop on the Future of Human-Centered Privacy: 2023. (Co-Organizer)
+
+o	King’s/Ofcom Workshop on the Opportunities and Challenges of the UK Online Safety Bill: 2022. (Organizer)
 
 o	USENIX Symposium on Usable Privacy and Security (SOUPS): 2022. (Academic Mentor)
 
@@ -164,13 +191,25 @@ o	IEEE European Symposium on Security and Privacy (EuroS&P): 2018. (Publicity Ch
 
 o	Workshop on Cryptography, Robustness, and Provably Secure Schemes for Female Young Researchers (CrossFyre): 2017. (Program Co-Chair)
 
-o	UCL Computer Science Mini Conference: 2016. (Program Co-Chair)
+o	UCL Computer Science Conference: 2016. (Program Co-Chair)
 
 **Technical Program Committee Member / Associate Chair**
 
+o	ACM Conference on Human Factors in Computing Systems (CHI): 2024—2026. (Privacy and Security Subcommittee)
+
 o	ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW): 2023.
 
-o	USENIX Security Symposium (USENIX SEC): 2021, 2022.
+o	ACM Conference on Computer and Communications Security (CCS): 2023, 2025. (Security, Usability, and Measurement Track)
+
+o	USENIX Symposium on Usable Privacy and Security (SOUPS): 2023, 2025.
+
+o	New Security Paradigms Workshop (NSPW): 2023.
+
+o	Usable Security and Privacy (USEC) Workshop: 2023.
+
+o	NDSS International Workshop on Ethics in Computer Security (EthiCS): 2023.
+
+o	USENIX Security Symposium (USENIX SEC): 2021, 2022, 2024, 2026.
 
 o	European Symposium on Research in Computer Security (ESORICS): 2021, 2022.
 
@@ -178,7 +217,7 @@ o	IEEE European Symposium on Security and Privacy (EuroS&P): 2021.
 
 o	Workshop on Privacy in the Electronic Society (WPES): 2020.
 
-o	Privacy-Enhancing Technologies Symposium (PETS/PoPETs): 2019, 2020, 2021, 2023. (Editorial Board)
+o	Privacy-Enhancing Technologies Symposium (PETs): 2019, 2020, 2021, 2023, 2024, 2025.
 
 o	European Workshop on Usable Security (EuroUSEC): 2019.
 
@@ -193,10 +232,15 @@ o	IEEE Symposium on Security and Privacy (Oakland): 2019.
 o	USENIX Symposium on Usable Privacy and Security (SOUPS): 2018, 2019.
 
 **Invited External Reviewer**
+o	New Generation Computing Journal: 2025.
 
-o	Behaviour & Information Technology: 2022.
+o	IEEE Security & Privacy: 2024.
+
+o	Behavior & Information Technology: 2022.
 
 o	IEEE Internet Computing: 2022.
+
+o	Violence Against Women Journal: 2022.
 
 o	Journal of Human-Computer Studies: 2021.
 
@@ -210,13 +254,13 @@ o	IEEE Symposium on Security and Privacy (Oakland): 2020.
 
 o	ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW): 2018.
 
-o	ACM Conference on Human Factors in Computing Systems (CHI): 2016, 2019-2022.
+o	ACM Conference on Human Factors in Computing Systems (CHI): 2016, 2019-2023.
 
 o	ACM Symposium on Virtual Reality Software and Technology (VRST): 2018.
 
-o	Journal of Computer Security: 2017, 2018.
+o	Journal of Cybersecurity: 2017, 2018, 2025.
 
-o	Privacy-Enhancing Technologies Symposium (PETS/PoPETs): 2018.
+o	Privacy-Enhancing Technologies Symposium (PETs): 2018.
 
 o	European Workshop on Usable Security (EuroUSEC): 2016.
 
