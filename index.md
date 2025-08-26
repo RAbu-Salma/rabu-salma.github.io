@@ -234,6 +234,7 @@ o	IEEE Symposium on Security and Privacy (Oakland): 2019.
 o	USENIX Symposium on Usable Privacy and Security (SOUPS): 2018, 2019.
 
 **Invited External Reviewer**
+
 o	New Generation Computing Journal: 2025.
 
 o	IEEE Security & Privacy: 2024.
@@ -275,5 +276,6 @@ o	Workshop on Socio-Technical Aspects in Security and Trust (STAST): 2016.
 o	International Conference on Financial Cryptography and Data Security: 2015.
 
 o	USENIX Security Symposium: 2015.
+
 
 
